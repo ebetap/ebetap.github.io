@@ -3,7 +3,7 @@ title = "Beta's Blog"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-publishdir = "ebetap.github.io"
+publishdir = "/Users/macbookair/Documents/ebetap.github.io"
 
 paginate = 20
 canonifyurls = true
@@ -24,7 +24,7 @@ disqusShortname = "yourdiscussshortname"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = ""
 
     hidecredits = false
     hidecopyright = false
