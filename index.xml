@@ -2,21 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beta&#39;s</title>
-    <link>https://ebetap.github.io/</link>
+    <link>http://ebetap.github.io/</link>
     <description>Recent content on Beta&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ebetap.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ebetap.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Setup React.js Project</title>
+      <link>http://ebetap.github.io/posts/setup-react-js-projetc/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://ebetap.github.io/posts/setup-react-js-projetc/</guid>
+      <description>Coming Soon </description>
+    </item>
+    
+    <item>
       <title>About Beta</title>
-      <link>https://ebetap.github.io/about/</link>
+      <link>http://ebetap.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ebetap.github.io/about/</guid>
+      <guid>http://ebetap.github.io/about/</guid>
       <description>Saya seorang Software Engineer dari Yogyakarta. Keahlian saya adalah di bidang Website dan Mobile Development. Tech stack yang saya gunakan diantaranya React.js, React Native, Vue.js, MongoDB, Express.js, dan Mongoose. Saya sekarang bekerja di Softwareseni sebagai Javascript Developer. Diluar pekerjaan saya juga menekuni salah satu cabang Artificial Intelligence yaitu Machine Learning. Saya telah menerbitkan satu jurnal berjudul Implementation of Naive Bayes Algorithm for Spam Comments Classification on Instagram yang di publish oleh Institute of Electrical and Electronics Engineers.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://ebetap.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ebetap.github.io/contact/</guid>
+      <description>Email: beta.priyoko@students.amikom.ac.id
+WhatsApp: +6283867138187</description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>http://ebetap.github.io/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ebetap.github.io/snippets/first/</guid>
+      <description>This content is in snippets/first/index.md
+pwd </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://ebetap.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ebetap.github.io/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
   </channel>

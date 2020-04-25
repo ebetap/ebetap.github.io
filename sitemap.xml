@@ -3,19 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ebetap.github.io/about/</loc>
+    <loc>http://ebetap.github.io/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ebetap.github.io/</loc>
+    <loc>http://ebetap.github.io/series/hugo/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ebetap.github.io/categories/</loc>
+    <loc>http://ebetap.github.io/posts/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ebetap.github.io/tags/</loc>
+    <loc>http://ebetap.github.io/series/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ebetap.github.io/posts/setup-react-js-projetc/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ebetap.github.io/series/theme/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ebetap.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ebetap.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ebetap.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ebetap.github.io/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ebetap.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ebetap.github.io/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ebetap.github.io/tags/</loc>
   </url>
   
 </urlset>
