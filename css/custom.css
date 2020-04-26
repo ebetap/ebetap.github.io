@@ -1,0 +1,13 @@
+.avatar img {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .avatar img {
+    width: 14rem;
+    height: 14rem;
+  }
+}
